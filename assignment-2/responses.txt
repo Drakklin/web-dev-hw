@@ -1,0 +1,4 @@
+Data travels on the internet via packet. 
+IP is translated by DNS servers allowing the use of web addresses ie "www.google.com"
+A cookie is a yummy baked treat. A HTTP cookie is a small data file.
+protocol, server name, resource ID
