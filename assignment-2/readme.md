@@ -6,5 +6,5 @@ construct of files and directories or even code. It allows a user or creator to 
 ![responses](responses.txt)
 ![Picture](images/screenshot.jpg)
 ![readme](readme.md)
-
+![Screenie](/images/screenshot.jpg)
 Work cycle was fairly straightforward. Looked at the steps offered in the example media, read my assignment and proceeded. Started with writing up the question answers and the screenshot of that page, followed with the readme alterations. I found some issues with github at first but now I am liking the idea of tracking my work. This would have been a great tool in previous programming classes....wonder why we didn't use it? 
