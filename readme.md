@@ -14,4 +14,5 @@ I must admit that after watching the videos the rest was rather easy because I h
 
 
 
-![screenie](sreen.png)
+![screenie](screen.png)
+
