@@ -8,4 +8,4 @@ I enjoyed this assignment as it had me flexing parts of my brain I have not used
 and the textbook it came down to just going through step by step and checking commands.
 The only time I found myself needing a lot of clairification was with the table, and that turned out to be mostly a case of misunderstanding terms.
 
-![Screenie](images/screenie.png)
+![Screenie](images/Screenie.png)
