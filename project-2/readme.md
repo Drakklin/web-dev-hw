@@ -1,10 +1,9 @@
+## Project-2
+I used almost nothing new this week, but I relatively enjoyed playing with <div> and trying things
+out. As far as what I learned in this class about HTML i learned a ton about how to build sites from scratch versus using something like dream weaver.
 
-## README ASN5
+I am very excited to learn how to use CSS alone to style a website. Really looking forward to being able to do with ATOM what I can do in Dreamweaver!
 
-Div tags are used as a container to help organize an html document. classes are used to refer to CSS code or stylesheet modifications to the HTML. ID tags facilitate the modification of individual elements that may require extra formatting. Spans are used as a form of organization pertaining specifically to inline elements.
-
-Third party hosts are better in quite few ways not limited to being cheaper than self hosted content data and bandwidth wise as well as taking care of maintaining the files and likely backing them up as well. Third party hosting also affords a second location for your content to exist online to be stumbled upon.
-
-This week was kind of tricky. I have worked with html and CSS before but generally using tools like Dreamweaver and such. That said I have done little with making classes, divs, et fully by hand. It thusly required a bit more care and understanding of the content than it sometimes has for me.
+This weeks work cycle was mad. I actually ended up re-building my site 5 times.... I lost a USB drive containing the HTML and CSS files. After re-building I decided I hated it. So I did it again ...and again. CSS was tricky! But looking back at older sites I have used helped a TON. I also used an off-html CSS page to manipulate the entire site rather than a style tag approach.
 
 ![Screenie](Images/screenie.png)
