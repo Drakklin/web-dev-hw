@@ -7,4 +7,4 @@ I chose to use the colors I found inside the image itself and white as it lent i
 
 The simple truth is that I copied a portion of an old site and modified it to taste, then worked in my div elements and names etc, then checked the appearance on the 800x800 view using a website
 
-![Screenie](Images/screenie.png)
+![Screenie](images/screenie.png)
