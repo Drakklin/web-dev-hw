@@ -27,9 +27,11 @@ div > span
 {
   background-color: #990099;
 }
- .ninety
+ #ninety
 {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
 
-    width: 400;
- 
 }
