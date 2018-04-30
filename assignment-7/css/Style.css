@@ -1,0 +1,24 @@
+/*stylesheet*/
+#mycheckbox:checked ~ .moretext {
+  display: block;
+}
+
+.moretext{
+  display: none;
+
+}
+
+#mycheckbox{
+  display: none;
+}
+.showmore{
+  cursor: pointer;
+}
+
+ body {
+ background-color: darkgreen;
+
+ }
+
+
+/*monkeys wrote this*/

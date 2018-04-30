@@ -1,0 +1,96 @@
+/*stylesheet*/
+
+@font-face {
+     font-family: 'Gugi', cursive;
+      src: url Gugi/Gugi-Regular.ttf
+      format('.tff');
+}
+@@font-face {
+       font-family: 'Berkshire Swash', cursive;
+       src: url Berkshire-Swash/BerkshireSwash-Regular.ttf
+       format('.tff');
+}
+.Title
+{
+      text-align: center;
+      color: black;
+      font-family: 'Berkshire Swash', cursive;
+
+      font-size: 24pt
+}
+.Text
+{
+      text-shadow: 2px 2px #304f12;
+      white-space: pre;
+      text-align: center;
+      color: black;
+      font-family: 'Gugi', cursive;
+      font-size: 14pt
+
+
+}
+.Subtitle
+{
+      text-transform: uppercase;
+      font-style: italic;
+      text-align: center;
+      color: darkgray;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 18pt
+
+
+}
+
+
+
+
+
+.GetStart
+{
+        letter-spacing: 10pt;
+}
+
+
+
+
+
+
+.button {
+   height: 90px;
+   width: 90px;
+
+   padding:10px;
+ 	 position:relative;
+	 font-family: 'Open Sans', sans-serif;
+	 font-size:12px;
+	 text-decoration:none;
+	 Background-color:#darkgreen;
+
+}
+
+.button:hover {
+    height: 90px;
+    width: 90px;
+    background-color: red;
+
+}
+.button:visited {
+  height: 90px;
+  width: 90px;
+  padding:10px;
+  color: white;
+}
+
+.button:active {
+  height: 90px;
+  width: 90px;
+  padding:10px;
+  background-color: blue;
+}
+
+
+
+
+
+
+/*monkeys wrote this*/
