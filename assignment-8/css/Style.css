@@ -1,0 +1,306 @@
+/*stylesheet*/
+img {
+    max-width: 100%;
+    height: auto;
+
+
+}
+ body {
+ background-color: #fdfdf1;
+
+ }
+
+ .parent-container-01 {
+    position: relative;
+    left: 12%;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+ }
+
+
+ }
+ .scene {
+
+     max-height: auto;
+     float: left;
+     position: absolute;
+     left: 0;
+     top: 100%;
+ }
+ .woman{
+
+   max-height: auto;
+   float: left;
+   position: relative;
+   left: 24%;
+   top: 23%;
+ }
+.vacpic{
+
+width: 350px;
+max-height: auto;
+float: left;
+position: absolute;
+left: 0;
+top: 350%;
+}
+
+.parent-container-02 {
+
+    margin-top: -5px;
+    width: 400px;
+    height: 400px;
+ }
+
+ .text{
+
+   line-height: 90px;
+   text-align: center;
+   color: #fdfdf1;
+   letter-spacing: -3px
+   font-family: 'Encode Sans', sans-serif;
+   font-style: italic;
+   font-weight: 400;
+   font-size: 38px;
+   max-height: auto;
+   background-color: #303f44;
+   max-width: 70%;
+   position: relative;
+   left: 108%;
+   top: 99%;
+ }
+ .text2{
+   text-align: justify;
+   max-width:240px;
+   color: #303f44;
+   font-size: 15px;
+   font-family: 'Encode Sans', sans-serif;
+   position: relative;
+   left: 108%;
+   bottom: 80%;
+ }
+.text3{
+  text-align: justify;
+  max-width:400px;
+  color: #303f44;
+  font-size: 15px;
+  font-family: 'Encode Sans', sans-serif;
+  position: relative;
+  left: 0;
+  bottom: 210%;
+}
+.text4
+{
+  text-align: justify;
+  max-width:175px;
+  color: #303f44;
+  font-size: 12px;
+  font-family: 'Encode Sans', sans-serif;
+  position: relative;
+  left: 131%;
+  bottom: 580%;
+}
+.text5
+{
+  text-align: justify;
+  max-width:400px;
+  color: #303f44;
+  font-size: 15px;
+  font-family: 'Encode Sans', sans-serif;
+  position: relative;
+  left: 0%;
+  bottom: 479%;
+}
+ .OH
+ {
+    font-size: 65px;
+    font-family: 'Rum Raisin', sans-serif;
+    position: relative;
+    left: 85%;
+    bottom: 390%;
+    color: #303f44;
+    -webkit-transform: rotate(-16deg);
+
+ }
+ .HO
+ {
+   font-size: 55px;
+   font-family: 'Rum Raisin', sans-serif;
+   position: relative;
+   left: 142%;
+   bottom: 405%;
+   width: 150px;
+   height: 80px;
+   text-decoration: underline;
+   color: #303f44;
+
+
+   -webkit-transform: rotate(10deg);
+ }
+ .vacuum
+ {
+   text-align:left;
+   font-size: 65px;
+   font-family: 'Rum Raisin', sans-serif;
+   color: #303f44;
+   position: relative;
+   left: 90%;
+   bottom: 421%;
+
+ }
+ .exp
+ {
+   font-size: 65px;
+   font-family: 'Rum Raisin', sans-serif;
+   color: #2d3c43;
+   position: relative;
+   left: 133%;
+   bottom: 468%;
+
+ }
+ .a
+ {
+   font-size: 55px;
+   font-family: 'Rum Raisin', sans-serif;
+   color: #2d3c43;
+   position: relative;
+   left: 170%;
+   bottom: 424%;
+
+ }
+
+.parent-container-03 {
+
+
+   width: 400px;
+   height: 400px;
+}
+.parent-container-05 {
+   position: relative;
+}
+.parent-container-07 {
+
+
+   width: 400px;
+   height: 400px;
+}
+.red
+{
+  text-align: justify;
+  font-size: 35px;
+  color: red;
+  position: relative;
+  left: 130%;
+  bottom: 680%;
+  font-family: 'Titan One', cursive;
+
+}
+.honest{
+  letter-spacing: 3px;
+}
+
+.parent-container-04 {
+
+   margin-top: -5px;
+   width: 50px;
+   height: 50px;
+}
+.inside
+{
+  height: 120px;
+  width: 120px;
+  position: relative;
+  left: 100%;
+  bottom: 454%;
+}
+.outside
+{
+height: 120px;
+width: 120px;
+position: relative;
+left: 100%;
+bottom: 520%;
+}
+
+.waste
+{
+  height: 120px;
+  width: 120px;
+  position: relative;
+  left: 100%;
+  bottom: 473%;
+}
+.queenred
+{
+      width: 420px;
+      height: 400px;
+      position: relative;
+      left: 76%;
+      bottom: 370%;
+   }
+   .guarantee
+   {
+         width: 110px;
+         height: auto;
+         position: relative;
+         left: 150%;
+         bottom: 430%;
+      }
+      .parent-container-08 {
+        height: 250px;
+        width: 400;
+
+      }
+      .parent-container-09 {
+        height: 250px;
+        width: 400;
+
+      }
+      .mailorder{
+        border: 3px;
+        border-style: dashed;
+        border-color: black;
+        padding-left: 4%;
+        width: 74%;
+        color: #303f44;
+        position: relative;
+        left: 102%;
+        bottom: 600%;
+        font-size: 12px;
+        font-family: 'Cantarell', sans-serif;
+        font-kerning: 3px;
+
+
+      }
+      .bagles
+      {
+        font-size: 25px;
+        font-family: 'Rum Raisin', sans-serif;
+        color: #2d3c43;
+        position: relative;
+        left: 108%;
+        bottom: 940%;
+        word-spacing: 10px;
+      }
+span:first-child
+   {
+    letter-spacing: 3px
+   }
+span:last-child
+{
+  position: relative;
+  right: 3%;
+}
+/*monkeys wrote this*/
+
+
+
+
+    font-family: 'Encode Sans', sans-serif;
+
+    font-family: 'Rum Raisin', sans-serif;
+
+    font-family: 'Titan One', cursive;
+
+    font-family: 'Cantarell', sans-serif;
